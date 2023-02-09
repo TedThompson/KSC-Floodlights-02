@@ -6,7 +6,9 @@ Yet another Floodlight/Lightning Arrester Tower for Kerbal Space Program &amp; K
 * Updated for KSP v1.8.0+ by [**Stone Blue**](https://forum.kerbalspaceprogram.com/index.php?/profile/77721-stone-blue/).
 * Adds 3 Floodlight Towers to the KSC Launchpad. ([Requires Kerbal Konstructs MOD](https://github.com/KSP-RO/Kerbal-Konstructs))
 
-### [PASTE AMAZING SCREENSHOT HERE]
+| Stone Blue's KSCFLT01 | This Mod's KSCFLT02 |
+| --- | --- |
+| ![KSCFLT01](https://i.imgur.com/PBmBqgk.png) | ![KSCFLT02](https://i.imgur.com/za9Fuxc.jpg) |
 
 ## Description
 
