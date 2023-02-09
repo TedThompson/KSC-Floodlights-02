@@ -26,7 +26,7 @@ It remains somewhat over-sized (my placements, like Stone Blue's, scales the tow
 
 ## Prototype Info
 
-| [![Tower Diagram](http://www.capcomespace.net/dossiers/espace_US/projet_constellation/2008_LC39B_plan_lightning_system_02_small.jpg)](http://www.capcomespace.net/dossiers/espace_US/projet_constellation/2008%20LC39B%20plan%20lightning%20system%2002.jpg) | In 2009, LC-39B saw the installation of three nearly 600' tall towers as part of a "Lightning Protection System" for the first at the historic launch pad. Previous uses for Apollo and the Space Shuttle had not required such protection. These towers, meant to be a more attractive target for Zeus, are by necessity significantly taller than the launch vehicles they protect. They are painted a light gray color from top to bottom. |
+| [![Tower Diagram](http://www.capcomespace.net/dossiers/espace_US/projet_constellation/2008_LC39B_plan_lightning_system_02_small.jpg)](http://www.capcomespace.net/dossiers/espace_US/projet_constellation/2008%20LC39B%20plan%20lightning%20system%2002.jpg) | In 2009, LC-39B saw the installation of three nearly 600' tall towers as part of a new "Lightning Protection System" at the historic launch pad. Previous uses for Apollo and the Space Shuttle did not have such comprehensive protection. These towers, meant to be a more attractive target for "Zeus", are by necessity significantly taller than the launch vehicles they protect. They are painted a light gray color from top to bottom and hold cables aloft to harmlessly redirect electrical discharges to the ground and away from launch vehicles. |
 | --- | :--- |
 | Futher Reading @ NASA.gov | https://www.nasa.gov/feature/lightning-towers-stand-tall-at-nasa-kennedy-s-launch-pad-39b |
 
